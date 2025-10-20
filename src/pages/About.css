@@ -1,11 +1,10 @@
 .about-container {
-  max-width:100%;
-  margin: auto;
-  padding: 30px 15px;
-  background:url(../assets/class.jpg) no-repeat center;
+   box-sizing: border-box; /* important */
   color: #e0e0e0;
+  padding: 60px 20px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
   font-family: "Roboto", sans-serif;
-
+ background: linear-gradient(135deg, #0f0f0f, #1a1a1a, #2c2c2c);
 }
 
 section {
@@ -16,7 +15,7 @@ section {
 /* Hero */
 .hero-about {
   text-align: center;
-  padding: 50px 20px;
+  padding: 50px 30px;
   border-radius: 12px;
 }
 
