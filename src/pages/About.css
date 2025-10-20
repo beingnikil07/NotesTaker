@@ -1,0 +1,126 @@
+.about-container {
+  max-width:100%;
+  margin: auto;
+  padding: 30px 15px;
+  background:url(../../public/class.jpg) no-repeat center;
+  color: #e0e0e0;
+  font-family: "Roboto", sans-serif;
+
+}
+
+section {
+  margin-bottom: 60px;
+
+}
+
+/* Hero */
+.hero-about {
+  text-align: center;
+  padding: 50px 20px;
+  border-radius: 12px;
+}
+
+.hero-about h1 {
+  font-size: 48px;
+  color: #0d96c3;
+  margin-bottom: 15px;
+}
+
+.hero-about p {
+  font-size: 20px;
+  color: #ffeb3b;
+}
+
+/* About Me */
+.about-me h2 {
+  color: #00ffe0;
+  margin-bottom: 15px;
+}
+
+.about-me p {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+/* Skills */
+.skills h2 {
+  color: #00ffe0;
+  margin-bottom: 20px;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.skills-list span {
+  background: #222;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: transform 0.3s, background 0.3s;  
+}
+
+.skills-list span:hover {
+  background: #00ffe0;
+  color: black;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+
+/* Social Links */
+.social-links h2 {
+  color: #00ffe0;
+  margin-bottom: 20px;
+  text-align: center;
+    cursor: pointer;
+}
+
+.social-links .btn {
+  padding: 12px 25px;
+  margin: 0 15px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.social-links .linkedin {
+  background: #0e76a8;
+  color: white;
+}
+
+.social-links .linkedin:hover {
+  background: #00ffe0;
+  color: black;
+  transform: scale(1.1);
+}
+
+.social-links .portfolio {
+  background: #ff4d4d;
+  color: white;
+}
+
+.social-links .portfolio:hover {
+  background: #ffb3b3;
+  color: black;
+  transform: scale(1.1);
+}
+
+/* Contact */
+.contact h2 {
+  color: #00ffe0;
+  margin-bottom: 15px;
+}
+
+.contact a {
+  color: #ffeb3b;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  color: #00ffe0;
+  text-decoration: underline;
+}
