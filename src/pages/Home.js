@@ -7,7 +7,7 @@ function Home() {
     <div className="home">
       <header className="hero">
         <div className="overlay">
-          <h1 className="title">Welcome to <span>StudyWithNikhil</span></h1>
+          <h1 className="title">Welcome to <span>My Academy</span></h1>
           <p className="subtitle">
             Learn AI, IT, and School Concepts with Simplicity and Clarity.
           </p>
