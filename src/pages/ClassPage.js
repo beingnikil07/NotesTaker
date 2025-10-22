@@ -16,6 +16,14 @@ function ClassPage() {
           "https://www.youtube.com/watch?v=YxcTBB6_bws",
           "https://www.youtube.com/watch?v=yFSEf6TOzDQ",
         ]
+      },
+      {
+        topic: "AI,ML ,Domains of AI ,Applications of AI",
+        noteLink: "https://drive.google.com/file/d/1IsbMEuLMtgy8HUoH59UNE05JmFhTLc0b/view?usp=sharing",
+        videoLinks: [
+          "https://www.youtube.com/watch?v=ad79nYk2keg",
+          "https://www.youtube.com/watch?v=ukzFI9rgwfU",
+        ]
       }
     ],
     "10": [
@@ -32,6 +40,14 @@ function ClassPage() {
         topic: "Getting started with computer fundamentals",
         noteLink: "https://drive.google.com/file/d/1ZEYanPg6guWLZxN6iFZiEahATXK555Nj/view?usp=sharing",
         videoLinks: ["https://www.youtube.com/watch?v=YxcTBB6_bws"]
+      },
+       {
+        topic: "Introduction to AI (Unit1)",
+        noteLink: "https://drive.google.com/file/d/1IsbMEuLMtgy8HUoH59UNE05JmFhTLc0b/view?usp=sharing",
+        videoLinks: [
+          "https://www.youtube.com/watch?v=ad79nYk2keg",
+          "https://www.youtube.com/watch?v=ukzFI9rgwfU",
+        ]
       }
     ],
     "12": [
