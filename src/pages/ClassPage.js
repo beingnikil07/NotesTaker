@@ -57,6 +57,20 @@ function ClassPage() {
         videoLinks: ["https://www.youtube.com/watch?v=YxcTBB6_bws",
                     "https://www.youtube.com/watch?v=EGQh5SZctaE"
         ],
+      },
+      {
+        topic: "Java Installation on windows,Mac",
+        noteLink: "https://www.geeksforgeeks.org/linux-unix/download-install-java-windows-linux-macos/",
+        videoLinks: ["https://www.youtube.com/watch?v=WGQN0HKGnu0",
+                    "https://www.youtube.com/watch?v=wXotUgqOdh8"
+        ],
+      },
+      {
+        topic: "Building the foundation to learn Java",
+        noteLink: "https://drive.google.com/file/d/1AiReeLO7th_LYmOh5zZ9cToR9qA6w9yr/view?usp=sharing",
+        videoLinks: ["https://www.youtube.com/watch?v=YF59k3gZeb4",
+                    "https://www.youtube.com/watch?v=D3DqJrlckbs"
+        ],
       }
     ]
   };
