@@ -31,7 +31,14 @@ function ClassPage() {
         topic: "Getting started with computer fundamentals",
         noteLink: "https://drive.google.com/file/d/1ZEYanPg6guWLZxN6iFZiEahATXK555Nj/view?usp=sharing",
         videoLinks: ["https://www.youtube.com/watch?v=YxcTBB6_bws",
-          "https://www.youtube.com/watch?v=fkGCLIQx1MI"
+          "https://www.youtube.com/watch?v=IafPEfUfcGU"
+        ]
+      },
+      {
+        topic: "Introduction to operating System",
+        noteLink: "https://drive.google.com/file/d/1_a7bL1V1GrFc7Dkct5uiVbNNCfuqCcbA/view?usp=sharing",
+        videoLinks: ["https://www.youtube.com/watch?v=0ZjkUMKy6x0",
+                    "https://www.youtube.com/watch?v=GDKIxBr6yhI"
         ]
       }
     ],
