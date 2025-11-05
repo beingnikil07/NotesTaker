@@ -24,6 +24,14 @@ function ClassPage() {
           "https://www.youtube.com/watch?v=ad79nYk2keg",
           "https://www.youtube.com/watch?v=ukzFI9rgwfU",
         ]
+      },
+      {
+        topic: "AI project life cycle & Types of Models",
+        noteLink: "https://drive.google.com/file/d/1Icq3-QXQh5JX7vvVSHtesrqeMBqzlV2U/view?usp=drive_link",
+        videoLinks: [
+          "https://www.youtube.com/playlist?list=PLO7HHXt7m9Gz-PVdCbZLxvgzS682XBVJ5",
+          "https://www.youtube.com/watch?v=bLak-_CnJTg"
+        ]
       }
     ],
     "10": [
