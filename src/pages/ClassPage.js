@@ -63,6 +63,14 @@ function ClassPage() {
           "https://www.youtube.com/watch?v=ad79nYk2keg",
           "https://www.youtube.com/watch?v=ukzFI9rgwfU",
         ]
+      },
+       {
+        topic: "Unit 1:All Done",
+        noteLink: "https://drive.google.com/file/d/1VPWddMzvITdCLlt9WUoiiYrdwOZRRn0z/view?usp=drive_link",
+        videoLinks: [
+          "https://www.youtube.com/watch?v=1FZ0A1QCMWc",
+          "https://www.youtube.com/watch?v=CMrHM8a3hqw",
+        ]
       }
     ],
     "12": [
