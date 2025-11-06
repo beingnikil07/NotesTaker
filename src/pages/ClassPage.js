@@ -94,7 +94,18 @@ function ClassPage() {
         videoLinks: ["https://www.youtube.com/watch?v=YF59k3gZeb4",
                     "https://www.youtube.com/watch?v=D3DqJrlckbs"
         ],
+      },
+       {
+        topic: "JVM,JRE,JDK,Operators,Compiler & Interpreter and OOPS",
+        noteLink: "https://drive.google.com/file/d/1XIQ-f4hyrhoq02rPJSqaatX8BrOUcban/view?usp=drive_link",
+        videoLinks: ["https://www.youtube.com/watch?v=Le25I331_yU&list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5&index=7",
+                    "https://www.youtube.com/watch?v=s7UgQ7_1KQY",
+                    "https://www.youtube.com/watch?v=Znmz_WxMxp4"
+        ],
       }
+
+
+
     ]
   };
 
