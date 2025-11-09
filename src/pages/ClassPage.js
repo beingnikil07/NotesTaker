@@ -32,6 +32,13 @@ function ClassPage() {
           "https://www.youtube.com/playlist?list=PLO7HHXt7m9Gz-PVdCbZLxvgzS682XBVJ5",
           "https://www.youtube.com/watch?v=bLak-_CnJTg"
         ]
+      },
+      {
+        topic: "Decison Tree,Evaluation techniques ,Deployment of AI Model ",
+        noteLink: "https://drive.google.com/file/d/140vMyVrcVgu80seOC-6VtyG8vvgHoLmq/view?usp=drive_link",
+        videoLinks: [
+          "https://www.youtube.com/watch?v=w7c80Ez0Lrk"
+        ]
       }
     ],
     "10": [
