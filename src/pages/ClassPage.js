@@ -39,6 +39,13 @@ function ClassPage() {
         videoLinks: [
           "https://www.youtube.com/watch?v=w7c80Ez0Lrk"
         ]
+      },
+      {
+        topic: "Data Literacy Unit ",
+        noteLink: "https://drive.google.com/file/d/1Yzu8fPcKU-VgkN-vJcEMPFk1fc7pCm6W/view?usp=sharing",
+        videoLinks: [
+          "https://www.youtube.com/watch?v=w7c80Ez0Lrk"
+        ]
       }
     ],
     "10": [
