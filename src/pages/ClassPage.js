@@ -132,10 +132,13 @@ function ClassPage() {
                     "https://www.youtube.com/watch?v=s7UgQ7_1KQY",
                     "https://www.youtube.com/watch?v=Znmz_WxMxp4"
         ],
+      },
+       {
+        topic: "Class,OOPS concepts,Access Modifiers",
+        noteLink: "https://drive.google.com/file/d/1TPMfHs_WEuew9xkX9Qul86gIvqQkUy47/view?usp=sharing",
+        videoLinks: ["https://www.youtube.com/watch?v=LqPl23MTK5o&t=224s",
+        ],
       }
-
-
-
     ]
   };
 
