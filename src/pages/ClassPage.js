@@ -44,7 +44,8 @@ function ClassPage() {
         topic: "Data Literacy Unit ",
         noteLink: "https://drive.google.com/file/d/1Yzu8fPcKU-VgkN-vJcEMPFk1fc7pCm6W/view?usp=sharing",
         videoLinks: [
-          "https://www.youtube.com/watch?v=w7c80Ez0Lrk"
+          "https://www.youtube.com/watch?v=QcMzR1oFH20&pp=ygUOZGF0YSBsaXRlcmFjeSA%3D",
+          "https://www.youtube.com/watch?v=ebobcsbrIlg"
         ]
       }
     ],
@@ -61,6 +62,21 @@ function ClassPage() {
         noteLink: "https://drive.google.com/file/d/1_a7bL1V1GrFc7Dkct5uiVbNNCfuqCcbA/view?usp=sharing",
         videoLinks: ["https://www.youtube.com/watch?v=0ZjkUMKy6x0",
                     "https://www.youtube.com/watch?v=GDKIxBr6yhI"
+        ]
+      },
+      {
+        topic: "Virus,Windows OS,Malware",
+        noteLink: "https://drive.google.com/file/d/12CSzMi3w3F7jCbkA8Yr7V-aj-OXuO2Sc/view?usp=sharing",
+        videoLinks: ["https://www.youtube.com/watch?v=7N4UF6I_ifo",
+                    "https://www.youtube.com/watch?v=cFo5D9mFUJQ"
+        ]
+      },
+      {
+        topic: "Libre office writer complete notes",
+        noteLink: "https://drive.google.com/file/d/1avhjY-LS5UD25zz8DtJ-LT-P7MIKfDHg/view?usp=sharing",
+        videoLinks: ["https://www.youtube.com/watch?v=sk32eyUp00o&t=79s",
+                    "https://www.youtube.com/watch?v=fFTup9d3acc",
+                    "https://www.youtube.com/watch?v=CRO8lDiBSdc"
         ]
       }
     ],
