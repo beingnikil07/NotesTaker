@@ -47,6 +47,13 @@ function ClassPage() {
           "https://www.youtube.com/watch?v=QcMzR1oFH20&pp=ygUOZGF0YSBsaXRlcmFjeSA%3D",
           "https://www.youtube.com/watch?v=ebobcsbrIlg"
         ]
+      },
+      {
+        topic: "Maths for AI Unit Notes",
+        noteLink: "https://drive.google.com/file/d/1bjmDaRLXiEgV1wt3Mzsxo6KMHWbD4cjf/view?usp=drive_link",
+        videoLinks: [
+          "https://www.youtube.com/watch?v=FKvyhWqJfw0"
+        ]
       }
     ],
     "10": [
