@@ -138,6 +138,13 @@ function ClassPage() {
         noteLink: "https://drive.google.com/file/d/1TPMfHs_WEuew9xkX9Qul86gIvqQkUy47/view?usp=sharing",
         videoLinks: ["https://www.youtube.com/watch?v=LqPl23MTK5o&t=224s",
         ],
+      },
+       {
+        topic: "Inheritance,Main Method ,Loops & More",
+        noteLink: "https://drive.google.com/file/d/1dREulueID5RuwRPtioxzP0ocL5TQnQFM/view?usp=sharing",
+        videoLinks: ["https://www.youtube.com/watch?v=wsAbhPQKHvo",
+                    "https://www.youtube.com/watch?v=6djggrlkHY8"
+        ],
       }
     ]
   };
